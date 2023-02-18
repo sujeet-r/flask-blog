@@ -1,0 +1,14 @@
+posts = [
+   {
+      'Name' : 'Sujeet Singh',
+      'Email': 'abc@xyz.com',
+      'Phone': '9876543210',
+      'Country': 'India'
+   },
+   {
+      'Name' : 'John Doe',
+      'Email': 'qwerty@xyz.com',
+      'Phone': '1234567890',
+      'Country': 'USA'
+   }
+]
